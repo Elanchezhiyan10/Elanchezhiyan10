@@ -1,25 +1,58 @@
-
-
-<!--
-**Elanchezhiyan10/Elanchezhiyan10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
--->
 # 💫 About Me:
-Im currently pursuing my be cse as a pre final year student at panimalar engineering college
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/elanchezhiyan-d-m-ba78bb2a2) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:elanchezhiyan1403@gmail.com) 
-
-# 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Elanchezhiyan10&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Elanchezhiyan10&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Elanchezhiyan10&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I'm currently pursuing B.E CSE as a pre-final year student at Panimalar Engineering College.  
+I’m passionate about AI, Machine Learning, and Full Stack Development, and I love building intelligent real-world applications.
 
 ---
-[![](https://komarev.com/ghpvc/?username=Elanchezhiyan10&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFD6A5?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/elanchezhiyan-d-m-ba78bb2a2) 
+[![Email](https://img.shields.io/badge/Email-FFE5B4?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:elanchezhiyan1403@gmail.com) 
+
+---
+
+# 💻 Tech Stack:
+
+![Dart](https://img.shields.io/badge/Dart-CAE9FF?style=for-the-badge&logo=dart&logoColor=0175C2)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFF3B0?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-FFD8BE?style=for-the-badge&logo=html5&logoColor=E34F26)
+![Python](https://img.shields.io/badge/Python-E0FBFC?style=for-the-badge&logo=python&logoColor=3776AB)
+![Java](https://img.shields.io/badge/Java-FFE0AC?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+
+![MySQL](https://img.shields.io/badge/MySQL-D6EAF8?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![AWS](https://img.shields.io/badge/AWS-FFE8CC?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![Firebase](https://img.shields.io/badge/Firebase-FFF1CC?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+
+![Express.js](https://img.shields.io/badge/Express.js-F1F1F1?style=for-the-badge&logo=express&logoColor=000000)
+![NodeJS](https://img.shields.io/badge/NodeJS-D5F5E3?style=for-the-badge&logo=node.js&logoColor=339933)
+![NPM](https://img.shields.io/badge/NPM-FFE5E5?style=for-the-badge&logo=npm&logoColor=CB3837)
+![Vite](https://img.shields.io/badge/Vite-EAEAFF?style=for-the-badge&logo=vite&logoColor=646CFF)
+
+![Flutter](https://img.shields.io/badge/Flutter-D6F0FF?style=for-the-badge&logo=flutter&logoColor=02569B)
+![Anaconda](https://img.shields.io/badge/Anaconda-E3F9E5?style=for-the-badge&logo=anaconda&logoColor=44A833)
+
+![Apache](https://img.shields.io/badge/Apache-FFE5EC?style=for-the-badge&logo=apache&logoColor=D42029)
+![MariaDB](https://img.shields.io/badge/MariaDB-E6CCB2?style=for-the-badge&logo=mariadb&logoColor=003545)
+
+![Keras](https://img.shields.io/badge/Keras-FFE5E5?style=for-the-badge&logo=keras&logoColor=D00000)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FFF0D9?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-FFF4CC?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
+
+![NumPy](https://img.shields.io/badge/NumPy-E3F2FD?style=for-the-badge&logo=numpy&logoColor=013243)
+![Pandas](https://img.shields.io/badge/Pandas-F3E5F5?style=for-the-badge&logo=pandas&logoColor=150458)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-F5F5F5?style=for-the-badge&logo=matplotlib&logoColor=000000)
+
+![Git](https://img.shields.io/badge/Git-FFE5D9?style=for-the-badge&logo=git&logoColor=F05033)
+![GitHub](https://img.shields.io/badge/GitHub-EDEDED?style=for-the-badge&logo=github&logoColor=000000)
+
+---
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Elanchezhiyan10&theme=default&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Elanchezhiyan10&theme=default&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Elanchezhiyan10&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+---
+
+[![](https://komarev.com/ghpvc/?username=Elanchezhiyan10&icon=0&color=F4A261)](https://visitcount.itsvg.in)
+
+<!-- Styled with warm light theme -->
